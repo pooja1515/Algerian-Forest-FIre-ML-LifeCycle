@@ -1,0 +1,4 @@
+Flask
+pandas
+numpy ==1.6
+scikit-learn
